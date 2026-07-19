@@ -15,4 +15,5 @@ Gosto de pegar o problema inteiro: levantar o que a operação precisa, desenhar
 ## Contato
 
 - Portfólio: [vgsouza.github.io](https://vgsouza.github.io)
+- LinkedIn: [linkedin.com/in/victor-gabriel-souza-adamastor](https://www.linkedin.com/in/victor-gabriel-souza-adamastor-bb4486416/)
 - E-mail: viictorgasouzaa@gmail.com
